@@ -83,6 +83,9 @@ class _HomePageState extends State<HomePage> {
           title: const Text('Content'),
           content: TextFormField(
             controller: textContentContoller,
+            decoration: InputDecoration(
+              hintText: 'Enter some text',
+            ),
           ),
           actions: [
             TextButton(
