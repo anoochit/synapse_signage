@@ -3,7 +3,7 @@
 Synapse digital signage realtime content update
 
 - [Synapse Screen](/screen/) Android TV app for digital signage
-- [Synapse Dsahboard](/dashboard/) A web app to control digital signage
+- [Synapse Dashboard](/dashboard/) A web app to control digital signage
 
 ## Screenshot
 
