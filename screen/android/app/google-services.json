@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461361211169",
+    "project_id": "synapse-signage",
+    "storage_bucket": "synapse-signage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461361211169:android:6ccd6c49daedaf2b17c060",
+        "android_client_info": {
+          "package_name": "net.redlinesoft.synapse.screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461361211169-sh0s1np3n3pnrae8pp758pnc0b4k2dtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBporo5-UviVYz4TwzgML-pJRlYKul6wNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461361211169-sh0s1np3n3pnrae8pp758pnc0b4k2dtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
